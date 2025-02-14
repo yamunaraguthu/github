@@ -1,0 +1,59 @@
+body 
+{
+  background:url('https://images.pexels.com/photos/3008509/pexels-photo-3008509.jpeg?auto=compress&cs=tinysrgb&w=1600')no-repeat center center fixed;
+  background-size:cover;
+  font-family:Arial,sans-serif;
+  color:black;
+}
+
+.container 
+{
+  width:500px;
+  margin:100px auto;
+  padding:20px;
+  background:rgba(255, 255, 255, 0.1);
+  border-radius:10px;
+  backdrop-filter:blur(10px);
+  text-align:center;
+}
+
+.h1 
+{
+  margin-bottom:20px;
+}
+
+.search-box 
+{
+  display:flex;
+  justify-content:center;
+  margin-bottom:20px;
+}
+
+.search-box input 
+{
+  padding:10px;
+  width:70%;
+  border: none;
+  border-radius:5px;
+  outline:none;
+}
+
+.search-box button 
+{
+  padding:10px;
+  border:none;
+  border-radius:5px;
+  background:blue;
+  color:white;
+  cursor:pointer;
+}
+
+.weather-info 
+{
+  font-size:18px;
+}
+
+.weather-info img 
+{
+  width:50px;
+}
