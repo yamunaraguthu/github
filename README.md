@@ -1,5 +1,7 @@
  Weather App (Django)
 
+ 
+
  Overview
  The Weather App is a robust and interactive web application built with Django that provides real-time weather updates for any location worldwide. It leverages a reliable weather API to fetch 
  and display accurate weather forecasts in an intuitive and user-friendly interface.
