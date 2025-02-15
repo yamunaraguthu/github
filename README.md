@@ -1,5 +1,10 @@
  Weather App (Django)
 
+![Image](https://github.com/user-attachments/assets/1ebfa112-10dd-4b28-beb2-1894151c3cb1)
+
+
+
+
 
  
 
