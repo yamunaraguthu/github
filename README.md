@@ -89,8 +89,14 @@ License
 This project is licensed under the MIT License.
 
 Contact
+
 For any queries or feedback, reach out via:
-Email:yamunaraguthu2003@gmail.com
-GitHub:http.github/yamunaraguthu
+
+Email: yamunaraguthu2003@gmail.com
+
+GitHub: yamunaraguthu
+
+
+
 
 
