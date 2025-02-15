@@ -1,5 +1,5 @@
  Weather App (Django)
-"D:\Downloads\11788.jpg"
+
 
  
 
